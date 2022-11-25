@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Andriamanantoanina
+- 👋 Hi, I’m @Otnan
 - 👀 I’m interested in front-end
 - 🌱 I’m currently learning nuxt-js
 - 💞️ I’m looking to collaborate on nothing :)
