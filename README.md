@@ -48,8 +48,8 @@
 ## 📊 S T A T S _ M O N I T O R
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nanto&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanto&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0tnan&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0tnan&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 ## 🎮 C U R R E N T _ P R O J E C T S 
@@ -80,9 +80,8 @@
 
 <div align="center">
   
-  [![Website Badge](https://img.shields.io/badge/Website-FF66FF?style=for-the-badge&logo=web&logoColor=white)](https://yourwebsite.com)
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com)
-  [![GitHub Badge](https://img.shields.io/badge/GitHub-FF66FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nanto)
+  [![Website Badge](https://img.shields.io/badge/Website-FF66FF?style=for-the-badge&logo=web&logoColor=white)](https://nanto.dev)
+  [![GitHub Badge](https://img.shields.io/badge/GitHub-FF66FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0tnan)
   
 </div>
 
@@ -95,7 +94,7 @@
   > VISITOR_COUNT.exe
   ```
   
-  ![Visitor Count](https://profile-counter.glitch.me/nanto/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/0tnan/count.svg)
 </div>
 
 ---
