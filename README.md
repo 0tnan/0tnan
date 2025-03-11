@@ -48,31 +48,30 @@
 ## 📊 S T A T S _ M O N I T O R
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0tnan&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0tnan&show_icons=true&theme=synthwave&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0tnan&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 ## 🎮 C U R R E N T _ P R O J E C T S 
 
 ```css
-.portfolio-website {
-  design: retro-futuristic;
-  tech: vue3 + nuxt3 + gsap;
+.personal-website {
+  tech: vue3 + nuxt3 + gsap + express + postgresql;
   features: card-flip-transitions;
   aesthetic: y2k;
-  status: loading...89%;
+  status: loading...30%;
 }
 
-.e-commerce-platform {
-  stack: vue + node + mongodb;
-  features: dynamic-catalog, secure-checkout;
-  status: completed;
+.omniplatform-music-player {
+  stack: vue2;
+  features: soundcloud-support spotify-support;
+  status: maintenance;
 }
 
-.data-visualization-dashboard {
-  stack: typescript + d3.js + websockets;
-  features: real-time-analytics;
-  status: in-progress;
+.offline-human-benchmark {
+  stack: vue2 + capacitor;
+  features: multiple mini-games;
+  status: loading...99%;
 }
 ```
 
